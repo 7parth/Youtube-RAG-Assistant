@@ -49,7 +49,6 @@ yarn-error.log*
 .yarn-integrity
 
 # Frontend Build Output
-frontend/build/
 frontend/dist/
 .next/
 out/
