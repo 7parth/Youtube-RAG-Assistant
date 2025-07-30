@@ -1,4 +1,4 @@
-<img width="1899" height="890" alt="Screenshot 2025-07-30 170841" src="https://github.com/user-attachments/assets/f5471d73-030a-4da0-b9bd-03fdee95ef61" /># YouTube RAG Assistant 🎥🤖
+# YouTube RAG Assistant 🎥🤖
 
 A full-stack application that uses Retrieval-Augmented Generation (RAG) to answer questions about YouTube videos. Simply paste a YouTube URL, and ask questions about the video content using AI.
 
@@ -9,8 +9,7 @@ A full-stack application that uses Retrieval-Augmented Generation (RAG) to answe
 
 ## 🚀 Live Demo
 
-
-![Uploading Screenshot 2025-07-30 170841.png…]()
+<img width="1899" height="890" alt="Screenshot 2025-07-30 170841" src="https://github.com/user-attachments/assets/f5471d73-030a-4da0-b9bd-03fdee95ef61" />
 - **Frontend**: [https://youtube-rag-frontend.vercel.app](https://youtube-rag-frontend.vercel.app)
 - **Backend API**: [[https://youtube-rag-api.render.com](https://youtube-rag-api.render.com)]
 
